@@ -1,0 +1,13 @@
+KATTERUMS JAKTLAG v2.5.25
+
+Bas: fungerande v2.5.24.
+
+Andringar:
+- Kartobservation och viltspår kan registreras med medlem, inloggad Viewer eller Annan än medlem som observatör.
+- Annan än medlem visar ett namn-falt och sparas som extern observatör.
+- Nasta molnsteg: Chattmeddelanden lagras och hamtas fran Supabase.
+- Kalender/radering och fem kommande aktiviteter fran v2.5.24 ar bevarade.
+
+VIKTIGT:
+1. Kor SETUP-V2.5.25-MESSAGES.sql i Supabase SQL Editor.
+2. Ladda sedan upp alla filer fran ZIP-arkivet.
